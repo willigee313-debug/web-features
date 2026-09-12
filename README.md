@@ -1,4 +1,4 @@
-# [`web-features`](https://github.com/web-platform-dx/web-features): exploring the set of interoperable features of the web platform
+7# [`web-features`](https://github.com/web-platform-dx/web-features): exploring the set of interoperable features of the web platform
 
 By the [W3C WebDX Community Group](https://www.w3.org/community/webdx/) and contributors.
 
@@ -27,3 +27,4 @@ To learn more about why this project was started and some of the problems its re
 ## Contribute
 
 Read [`CONTRIBUTING.md`](./docs/CONTRIBUTING.md) to learn about how to contribute to this project.
+
